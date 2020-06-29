@@ -1,7 +1,7 @@
 ---
 title: Tumi Ngoc Tran
 role: Ph.D. student
-avatar_filename: screen-shot-2020-06-29-at-3.47.14-pm.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - deep learning
