@@ -22,7 +22,7 @@ education:
     - course: PhD in Biological Sciences
       institution: Cold Spring Harbor Laboratory
       year: ""
-    - course: BA in Chemistry
+    - course: BS in Chemistry
       institution: San Jose State University
       year: ""
 email: ""
