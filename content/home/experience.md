@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   location = "Cold Spring Harbor, New York"
   date_start = "2015-08-01"
   date_end = ""
-  description = """Mammalians smell odorants using an emsemble of olfactory receptors. I trained a neural network to replicate the evolution of these receptors by treating 3D convolutional filters as "receptors" and 4D tensors as "molecules". Through studying artifical systems, I hope to understand how biological systems process smells.
-  """
+  description = """Study olfaction theory, brain developments and behavior using modeling and machine learning."""
 
 [[experience]]
   title = "Postbac student"
@@ -35,6 +34,6 @@ date_format = "Jan 2006"
   location = "Cambridge, Massachusetts"
   date_start = "2014-01-01"
   date_end = "2015-07-01"
-  description = """Using RNA interference, we can knockdown genes one-by-one to see which one activates a cellular pathways. However, the process is not accurate, since for every gene we knockout, we also knockout a lot of unintended targets. I engineered cells genetically in order to separate the sources of on-target and off-target knockout. This disentanglement of these two sources allow experimental results to be better interpreted."""
+  description = """Develop assays to suppress miRNA-based off-targeting in genome-wide siRNA screens."""
   
 +++
