@@ -3,7 +3,7 @@ title: "DeepNose"
 summary: "Using artiﬁcial neural networks to represent the space of odorants"
 tags: [olfaction]
 date: 2020-06-29:T17:35:03-04:00
-
+weight: 10
 image:
   caption: ""
   focal_point: ""

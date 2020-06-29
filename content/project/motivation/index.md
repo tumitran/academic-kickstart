@@ -3,6 +3,8 @@ title: "Motivation"
 summary: "Neural networks with motivation"
 tags: [reinforcement learning]
 date: 2020-06-29T17:34:28-04:00
+weight: 20
+
 image:
   caption: ""
   focal_point: ""
