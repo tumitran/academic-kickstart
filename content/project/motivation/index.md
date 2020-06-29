@@ -12,7 +12,7 @@ image:
 
 links:
 - name: Paper
-  url: http://proceedings.mlr.press/v97/tran19b/tran19b.pdf
+  url: https://darkstar.cshl.edu/pdf/lab/002019_motivation/2019_motivation.pdf
   icon_pack: fas
   icon: sticky-note
 
