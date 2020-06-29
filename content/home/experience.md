@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cold Spring Harbor, NY"
   date_start = "2015"
-  date_end = "present"
+  date_end = ""
   description = """
   People can smell molecules using an emsemble of receptors. I teaching computer to smells by treating 3D convolutional filters as "receptors" and 4D tensors as "molecules". Through studying artifical systems, I hope to understand how biological systems process smells.
   """
