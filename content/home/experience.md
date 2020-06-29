@@ -22,16 +22,10 @@ date_format = "Jan 2006"
   title = "Graduate student"
   company = "Cold Spring Harbor Laboratory"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Cold Spring Harbor"
+  date_start = "2015-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """People can smell molecules using an emsemble of receptors. I teaching computer to smells by treating 3D convolutional filters as 'receptors' and 4D tensors as 'molecules'. Through studying artifical systems, I hope to understand how biological systems process smells."""
 
   
 +++
