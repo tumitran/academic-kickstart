@@ -34,4 +34,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-"Tumi" Ngoc Tran is a Ph.D. student studying computational neuroscience in the Koulakov Lab at Cold Spring Harbor Laboratory. Her research interests include studying olfaction and brain development using deep learning.
+I am a Ph.D. student studying computational neuroscience in the Koulakov Lab at Cold Spring Harbor Laboratory. I teach computers to smell.
