@@ -38,4 +38,5 @@ date_format = "Jan 2006"
   description = """
   Scientists knockdown genes one-by-one to see which one activates a cellular pathways. This knockdown process is not accurate, meaning it knocks out a lot of off-target along with the intended target. This makes it hard to interpret the results. I altered the cells genetically to the knockdown more on-target. 
   """
+  
 +++
