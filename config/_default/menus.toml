@@ -9,6 +9,10 @@
   weight = 10
 
 [[main]]
+  name = "My Widget Page"
+  url = "landing/"
+  weight = 2
+[[main]]
   name = "Post"
   url = "#post"
   weight = 20
