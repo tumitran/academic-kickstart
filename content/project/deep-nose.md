@@ -1,6 +1,6 @@
 ---
 title: "Deep Nose"
-date: 2020-06-29T16:33:53-04:00
+date: 2020-06-29T17:35:03-04:00
+draft: false
 ---
-Teaching computers to smell.
-
+Hello
