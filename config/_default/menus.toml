@@ -9,17 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "My Widget Page"
-  url = "landing/"
-  weight = 2
-[[main]]
-  name = "Post"
-  url = "#post"
+  name = "Posts"
+  url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Project"
-  url = "#project"
+  name = "Projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
