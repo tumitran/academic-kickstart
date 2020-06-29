@@ -21,3 +21,4 @@ url_slides: ""
 url_video: ""
 draft: false
 ---
+I trained a neural network to replicate the evolution of these receptors by treating 3D convolutional filters as “receptors” and 4D tensors as “molecules”. 
