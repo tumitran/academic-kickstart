@@ -1,5 +1,5 @@
 ---
-title: "DeepNose"
+#title: "DeepNose"
 event: From neuroscience to artificially intelligent systems
 location: Cold Spring Harbor, NY
 event_url: https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=20
