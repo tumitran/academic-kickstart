@@ -24,7 +24,7 @@ education:
       year: ""
     - course: BA in Chemistry
       institution: San Jose State University
-      year: 2013
+      year: ""
 email: ""
 superuser: true
 authors:
