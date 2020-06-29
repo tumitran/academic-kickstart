@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   location = "Cold Spring Harbor, New York"
   date_start = "2015-08-01"
   date_end = ""
-  description = """Mammalians smell molecules using an emsemble of olfactory receptors. I teach computer to smells by treating 3D convolutional filters as "receptors" and 4D tensors as "molecules". Through studying artifical systems, I hope to understand how biological systems process smells."""
+  description = """Mammalians smell odorants using an emsemble of olfactory receptors. I trained a neural network to replicate the evolution of these receptors by treating 3D convolutional filters as "receptors" and 4D tensors as "molecules". Through studying artifical systems, I hope to understand how biological systems process smells.
+  """
 
 [[experience]]
   title = "Postbac student"
@@ -34,6 +35,6 @@ date_format = "Jan 2006"
   location = "Cambridge, Massachusetts"
   date_start = "2014-01-01"
   date_end = "2015-07-01"
-  description = """Using RNA interference, we can knockdown genes one-by-one to see which one activates a cellular pathways. This technique is used to identify drug targets. However, the knockdown process is not accurate, meaning for each gene we perform the knockout experiment, we also knockout a lot of unintended targets. This makes it hard to interpret the results. I altered the cells genetically using CRISPR technology to separate the sources of on- and off-target, aiding the analysis of these experiments."""
+  description = """Using RNA interference, we can knockdown genes one-by-one to see which one activates a cellular pathways. However, the process is not accurate, since for every gene we knockout, we also knockout a lot of unintended targets. I engineered cells genetically in order to separate the sources of on-target and off-target knockout. This disentanglement of these two sources allow experimental results to be better interpreted."""
   
 +++
