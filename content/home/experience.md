@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   title = "Graduate student"
   company = "Cold Spring Harbor Laboratory"
   company_url = ""
-  location = "Cold Spring Harbor"
+  location = "Cold Spring Harbor, New York"
   date_start = "2015-08-01"
   date_end = ""
-  description = """People can smell molecules using an emsemble of receptors. I teaching computer to smells by treating 3D convolutional filters as 'receptors' and 4D tensors as 'molecules'. Through studying artifical systems, I hope to understand how biological systems process smells."""
+  description = """People can smell molecules using an emsemble of receptors. I teaching computer to smells by treating 3D convolutional filters as "receptors" and 4D tensors as "molecules". Through studying artifical systems, I hope to understand how biological systems process smells."""
 
   
 +++
