@@ -22,10 +22,10 @@ education:
   courses:
     - course: PhD in Biological Sciences
       institution: Cold Spring Harbor Laboratory
-      year: 2015-Present
+      year: ""
     - course: BS in Chemistry
       institution: San Jose State University
-      year: 2009-2013
+      year: ""
 email: ""
 superuser: true
 authors:
