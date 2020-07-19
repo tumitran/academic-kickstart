@@ -1,6 +1,7 @@
 ---
 title: "Lab meeting journal club"
-tags = [nlp]
+tags: ["nlp"]
+lastmod: 2020-06-01
 date: 2020-06-01T17:29:57-04:00
 draft: false
 ---
