@@ -15,6 +15,10 @@ links:
   icon_pack: fas
   icon: sticky-note
 
+- name: Paper (bioRxiv '18)
+  url: https://www.biorxiv.org/content/10.1101/464735v1
+  icon_pack: fas
+  icon: sticky-note
 url_code: ""
 url_pdf: ""
 url_slides: ""
