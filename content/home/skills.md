@@ -29,9 +29,21 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
+  name = "Pytorch"
 #  description = "90%"
-  
+
+[[feature]]
+  icon = "user-astronaut"
+  icon_pack = "fas"
+  name = "Reinforcement learning"
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Research"
+[[feature]]
+  icon = "capsules"
+  icon_pack = "fas"
+  name = "Chemistry"
 
 # Uncomment to use emoji icons.
 # [[feature]]
