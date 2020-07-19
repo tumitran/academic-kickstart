@@ -1,5 +1,5 @@
 ---
-title: "Journal club"
+title: "Lab meeting journal club"
 date: 2020-06-08T17:29:57-04:00
 draft: false
 ---
