@@ -1,5 +1,5 @@
 ---
-title: "CSHL Deep learning journal club"
+title: "CSHL Deep learning journal club (06-29-2020)"
 tags: ["GAN", "chemistry"]
 date: 2020-06-26T07:32:00-08:00
 publishDate: 2020-06-26T07:32:00-08:00
