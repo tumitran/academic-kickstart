@@ -1,5 +1,5 @@
 ---
-title: "Lab meeting journal club (06-08-2020)"
+title: "Lab meeting journal club (06-01-2020)"
 tags: ["nlp"]
 lastmod: 2020-06-01
 date: 2020-06-01T17:29:57-04:00
