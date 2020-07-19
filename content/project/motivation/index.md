@@ -11,7 +11,7 @@ image:
   preview_only: false
 
 links:
-- name: Paper
+- name: Paper (MTLRL @ ICML '19)
   url: https://darkstar.cshl.edu/pdf/lab/002019_motivation/2019_motivation.pdf
   icon_pack: fas
   icon: sticky-note

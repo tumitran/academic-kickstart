@@ -10,7 +10,7 @@ image:
   preview_only: false
 
 links:
-- name: Paper
+- name: Paper (ICML '19)
   url: http://proceedings.mlr.press/v97/tran19b/tran19b.pdf
   icon_pack: fas
   icon: sticky-note
