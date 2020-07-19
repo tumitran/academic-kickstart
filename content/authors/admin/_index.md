@@ -20,7 +20,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Biological Sciences
+    - course: PhD in Computational Neuroscience
       institution: Cold Spring Harbor Laboratory
       year: ""
     - course: BS in Chemistry
